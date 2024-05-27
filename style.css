@@ -24,7 +24,8 @@ body{
 .mencao{
   text-decoration:none;
   color:black;
-    
+  background-color:#84E1AD;
+  color:#03411d;    
 }
 
 .mencao::after{
@@ -96,7 +97,7 @@ nav{
     padding-right: 15px;
 }
 
-a:hover{
+nav > a:hover{
     background-color:#84E1AD;
     color:#03411d;
     text-align:center;
